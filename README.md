@@ -1,5 +1,9 @@
 # DateRelate
 
+[![Travis-CI](https://img.shields.io/travis/giantas/daterelate.svg?maxAge=2592000)](https://travis-ci.org/giantas/daterelate)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/c9145e54174a469e900f52ea50052af2)](https://www.codacy.com/app/giantas/daterelate?utm_source=github.com&utm_medium=referral&utm_content=giantas/daterelate&utm_campaign=Badge_Coverage)
+[![Issues](https://img.shields.io/github/issues-raw/giantas/daterelate/website.svg)](https://github.com/giantas/daterelate/issues)
+
 Relate two dates to each other easily (e.g. today to tomorrow, new year to today)
 
 # Usage
