@@ -63,7 +63,8 @@ def relate(later_date, first_date=datetime.now(),
         days, future=future, past=past, consider_now=consider_now)
 
 
-def relate_from_string(later_date, first_date=datetime.now(),
+def relate_from_string(later_date,
+                       first_date=datetime.now().strftime('%d-%m-%Y'),
                        future='to come', same_day='same day',
                        past='ago', consider_now=True, **kwargs):
     """Takes in 2 strings of dates and compares
